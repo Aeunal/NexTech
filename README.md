@@ -1,7 +1,8 @@
 *Bu proje TEKNOFEST 2024 Antalya T3AI Hackathon Yarışması İnce Ayarlama Kategorisi için geliştirilmiştir.*
 
 # Proje Başlığı 
-## Projede neyin amaçlandığını bir cümle ile özetleme: Kimin, hangi problemini, nasıl çözüyorsunuz
+## Modelimiz, ilgili dikeylerde bilgi sahibi olmak isteyen kullanıcılara seri ve kapsamlı cevaplar vermektedir.
+
 
 ````
 .
@@ -17,9 +18,9 @@
 └── README.md
 ````
 
-## Takım Adı: Takım ID
-- 👤 Üye 1 
-- 👤 Üye 2
+## Takım Adı: 2321961
+- 👤 Ahmet Emin Ünal
+- 👤 Furkan Ünal
 ....
 
 
