@@ -18,7 +18,7 @@
 └── README.md
 ````
 
-## Takım Adı: 2321961
+## NexTech: 2321961
 - 👤 Ahmet Emin Ünal
 - 👤 Furkan Ünal
 
