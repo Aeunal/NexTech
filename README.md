@@ -44,17 +44,17 @@ https://arastirma.tarimorman.gov.tr/tepge/Menu/53/Yayin-Arsivi
 pip install --upgrade huggingface_hub
 huggingface-cli login
 ```
-
 ```bash
 git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
 cd LLaMA-Factory
 pip install -e ".[torch,metrics]"
 ```
-Use the following 3 commands to run LoRA **fine-tuning**, **inference** and **merging** of the Llama3-8B-Instruct model, respectively.
 ```bash
-llamafactory-cli train examples/train_lora/llama3_lora_sft.yaml
-llamafactory-cli chat examples/inference/llama3_lora_sft.yaml
-llamafactory-cli export examples/merge_lora/llama3_lora_sft.yaml
+finetune.sh
+export.sh
 ```
 
 ## Sınama Görevi: Fonksiyon Çağırma
+```bash
+finetune_func.sh
+```
