@@ -9,10 +9,7 @@
 ├── training
 ├── function_calling
 ├── datasets/
-│   ├── turk-egitim-sistemi
-│   ├── turk-hukuku
-│   ├── surdurulebilirlik
-│   └── tarim
+│   ├── dataset.md
 ├── assets
 ├── requirements.txt
 └── README.md
