@@ -10,5 +10,3 @@ https://tr.wikipedia.org/wiki/S%C3%BCrd%C3%BCr%C3%BClebilirlik http://www.surdur
 
 Tarım
 https://www.tarimorman.gov.tr/Konular/Bitki-Sagligi-Hizmetleri https://arastirma.tarimorman.gov.tr/tepge/Menu/53/Yayin-Arsivi
-
-İnce Ayarlama Süreci Başlatma
