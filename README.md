@@ -21,7 +21,6 @@
 ## Takım Adı: 2321961
 - 👤 Ahmet Emin Ünal
 - 👤 Furkan Ünal
-....
 
 
 ## Veri Seti Kaynakları
