@@ -1,0 +1,18 @@
+{
+  "custom_toolcall_tr_demo": {
+    "file_name": "custom_toolcall_tr_demo.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "glaive_toolcall_en_demo": {
+    "file_name": "glaive_toolcall_en_demo.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  }
+}
